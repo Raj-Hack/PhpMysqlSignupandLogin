@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PhpMysqlSignupandLogin.iml" filepath="$PROJECT_DIR$/.idea/PhpMysqlSignupandLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhpMysqlSignupandLogin.iml" filepath="$PROJECT_DIR$/PhpMysqlSignupandLogin.iml" />
+      <module fileurl="file://C:\Users\Pranay Anand\Desktop\Android proj\PhpMysqlSignupandLogin\.idea\PhpMysqlSignupandLogin.iml" filepath="C:\Users\Pranay Anand\Desktop\Android proj\PhpMysqlSignupandLogin\.idea\PhpMysqlSignupandLogin.iml" />
       <module fileurl="file://F:\virocore-master\virocore-master\PhpMysqlSignupandLogin\PhpMysqlSignupandLogin.iml" filepath="F:\virocore-master\virocore-master\PhpMysqlSignupandLogin\PhpMysqlSignupandLogin.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://F:\virocore-master\virocore-master\PhpMysqlSignupandLogin\app\app.iml" filepath="F:\virocore-master\virocore-master\PhpMysqlSignupandLogin\app\app.iml" />
