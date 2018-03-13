@@ -11,8 +11,6 @@ import android.content.SharedPreferences;
 public class SharedPrefManager {
 
     //the constants
-    int a = 20;
-    int b = 30;
     private static final String SHARED_PREF_NAME = "simplifiedcodingsharedpref";
     private static final String KEY_USERNAME = "keyusername";
     private static final String KEY_EMAIL = "keyemail";
